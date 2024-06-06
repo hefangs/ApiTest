@@ -1,0 +1,29 @@
+# {'name': 'fisher', 'word': 'hello', 'age': 18}
+hero:
+  name: fisher
+  word: hello
+  age: 18
+
+# ['fisher', 'james', 'jack']
+hero_names:
+  - fisher
+  - james
+  - jack
+
+# [{'name': 'fisher', 'word': 'hello', 'age': 18}]
+heroes:
+  - name: fisher
+    word: hello
+    age: 18
+
+# [['fisher', 'james', 'jack']]
+hero_name_list:
+  - - fisher
+    - james
+    - jack
+
+# [['fisher', '18'], ['james', '26'], ['jack', '35']]
+hero_list:
+  - [ "fisher", "18" ]
+  - [ "james", "26" ]
+  - [ "jack", "35" ]
